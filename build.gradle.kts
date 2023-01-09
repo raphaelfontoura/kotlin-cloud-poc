@@ -20,6 +20,8 @@ dependencies {
     implementation("com.squareup.retrofit2:converter-gson:2.9.0")
     // https://mvnrepository.com/artifact/io.github.resilience4j/resilience4j-circuitbreaker
     implementation("io.github.resilience4j:resilience4j-circuitbreaker:2.0.2")
+    // https://mvnrepository.com/artifact/org.jetbrains.kotlinx/kotlinx-coroutines-core
+    implementation("org.jetbrains.kotlinx:kotlinx-coroutines-core:1.6.4")
 
 }
 
